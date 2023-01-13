@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_TicTacToe/static/css/main.debe35c2.css",
+    "main.js": "/React_TicTacToe/static/js/main.0de7c049.js",
+    "static/js/787.6b0bed1b.chunk.js": "/React_TicTacToe/static/js/787.6b0bed1b.chunk.js",
+    "index.html": "/React_TicTacToe/index.html",
+    "main.debe35c2.css.map": "/React_TicTacToe/static/css/main.debe35c2.css.map",
+    "main.0de7c049.js.map": "/React_TicTacToe/static/js/main.0de7c049.js.map",
+    "787.6b0bed1b.chunk.js.map": "/React_TicTacToe/static/js/787.6b0bed1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.debe35c2.css",
+    "static/js/main.0de7c049.js"
+  ]
+}
